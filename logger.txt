@@ -1,0 +1,176 @@
+Method -> GET, Time -> 1780795330992, URL -> /
+ Method -> GET - Time -> 1780795462346 - URL -> / 
+
+ Method -> GET - Time -> 1780795520646 - URL -> /api/users 
+
+ Method -> GET - Time -> 1,780,795,808,721 - URL -> /api/profile 
+
+ Method -> GET - Time -> 1,780,795,812,587 - URL -> /api/profiles 
+
+ Method -> GET - Time -> 1,780,795,815,291 - URL -> /api/profiles 
+
+ Method -> GET - Time -> 1,780,795,824,234 - URL -> /api/auth 
+
+ Method -> GET - Time -> 1,780,795,840,397 - URL -> /api/users/1 
+
+ Method -> GET - Time -> 2026-06-07T01:33:50.244Z - URL -> /api/users/2 
+
+ Method -> GET - Time -> 2026-06-07T01:46:36.286Z - URL -> /api/users/2 
+
+ Method -> GET - Time -> 2026-06-07T01:46:40.893Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-07T01:46:42.618Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-07T15:32:20.313Z - URL -> / 
+
+ Method -> GET - Time -> 2026-06-07T15:32:29.006Z - URL -> /favicon.ico 
+
+ Method -> GET - Time -> 2026-06-07T15:32:35.123Z - URL -> /api/users 
+
+ Method -> POST - Time -> 2026-06-07T15:36:43.639Z - URL -> /api/auth/login 
+
+ Method -> GET - Time -> 2026-06-07T15:37:21.986Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-07T15:38:13.316Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-07T15:42:57.727Z - URL -> /api/users 
+
+ Method -> GET - Time -> 2026-06-07T15:43:00.629Z - URL -> /api/users 
+
+ Method -> GET - Time -> 2026-06-07T15:43:01.319Z - URL -> /api/users 
+
+ Method -> GET - Time -> 2026-06-07T15:43:36.103Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-07T15:43:44.379Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-07T15:53:43.906Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-07T15:54:14.973Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-07T15:58:42.072Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-07T16:10:30.692Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-07T16:11:24.863Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-07T16:13:53.330Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-07T16:16:44.529Z - URL -> /api/users/ 
+
+ Method -> POST - Time -> 2026-06-07T16:24:12.256Z - URL -> /api/users 
+
+ Method -> GET - Time -> 2026-06-07T16:25:11.163Z - URL -> /api/users/ 
+
+ Method -> POST - Time -> 2026-06-07T16:25:39.745Z - URL -> /api/auth/login 
+
+ Method -> GET - Time -> 2026-06-07T16:25:59.500Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-07T16:27:07.106Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-07T16:27:11.014Z - URL -> /api/users/ 
+
+ Method -> POST - Time -> 2026-06-07T16:28:38.456Z - URL -> /api/auth/login 
+
+ Method -> GET - Time -> 2026-06-07T16:28:48.540Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-07T16:39:05.681Z - URL -> /api/users/ 
+
+ Method -> POST - Time -> 2026-06-07T16:39:22.523Z - URL -> /api/auth/login 
+
+ Method -> GET - Time -> 2026-06-07T16:39:40.216Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-07T16:40:37.632Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-07T16:44:58.405Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-07T16:45:00.824Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-07T16:45:01.350Z - URL -> /api/users/ 
+
+ Method -> POST - Time -> 2026-06-07T16:46:03.927Z - URL -> /api/auth/login 
+
+ Method -> GET - Time -> 2026-06-07T16:46:24.513Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-07T16:50:34.588Z - URL -> /api/users/ 
+
+ Method -> POST - Time -> 2026-06-08T05:05:05.956Z - URL -> /api/users 
+
+ Method -> POST - Time -> 2026-06-08T05:16:36.350Z - URL -> /api/users 
+
+ Method -> POST - Time -> 2026-06-08T05:22:13.603Z - URL -> /api/users 
+
+ Method -> POST - Time -> 2026-06-08T05:25:25.510Z - URL -> /api/auth/login 
+
+ Method -> GET - Time -> 2026-06-08T05:25:53.631Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-08T05:26:26.143Z - URL -> /api/users/ 
+
+ Method -> POST - Time -> 2026-06-08T05:38:58.033Z - URL -> /api/auth/login 
+
+ Method -> GET - Time -> 2026-06-08T05:39:35.225Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-08T05:42:17.549Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-08T05:43:30.677Z - URL -> /api/users/ 
+
+ Method -> POST - Time -> 2026-06-08T06:19:12.357Z - URL -> /api/auth/login 
+
+ Method -> GET - Time -> 2026-06-08T06:19:29.202Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-08T06:20:01.791Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-08T06:27:24.206Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-08T06:33:07.715Z - URL -> / 
+
+ Method -> GET - Time -> 2026-06-08T06:33:11.273Z - URL -> /api/users 
+
+ Method -> GET - Time -> 2026-06-08T06:33:11.344Z - URL -> /favicon.ico 
+
+ Method -> GET - Time -> 2026-06-08T06:33:14.492Z - URL -> /api/users 
+
+ Method -> GET - Time -> 2026-06-08T06:33:39.352Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-08T06:34:00.631Z - URL -> /api/users/ 
+
+ Method -> POST - Time -> 2026-06-08T16:25:27.994Z - URL -> /api/auth/login 
+
+ Method -> POST - Time -> 2026-06-08T16:35:12.733Z - URL -> /api/auth/refresh-token 
+
+ Method -> POST - Time -> 2026-06-08T16:41:02.184Z - URL -> /api/auth/refresh-token 
+
+ Method -> POST - Time -> 2026-06-08T17:04:39.218Z - URL -> /api/auth/refresh-token 
+
+ Method -> GET - Time -> 2026-06-09T04:28:03.760Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-09T04:28:20.406Z - URL -> /api/users/ 
+
+ Method -> POST - Time -> 2026-06-09T04:29:21.181Z - URL -> /api/auth/login 
+
+ Method -> GET - Time -> 2026-06-09T04:29:41.898Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-09T04:29:51.312Z - URL -> /api/users/ 
+
+ Method -> POST - Time -> 2026-06-09T05:03:47.344Z - URL -> /api/users 
+
+ Method -> POST - Time -> 2026-06-09T05:04:47.214Z - URL -> /api/users 
+
+ Method -> GET - Time -> 2026-06-10T01:11:42.391Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-10T01:11:44.614Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-10T01:11:57.393Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-10T01:11:58.063Z - URL -> /api/users/ 
+
+ Method -> GET - Time -> 2026-06-10T01:11:58.836Z - URL -> /api/users/ 
+
+ Method -> POST - Time -> 2026-06-10T01:12:19.846Z - URL -> /api/auth/login 
+
+ Method -> GET - Time -> 2026-06-10T01:12:46.893Z - URL -> /api/users/ 
+
+ Method -> DELETE - Time -> 2026-06-10T01:25:01.405Z - URL -> /api/users/5 
+
+ Method -> DELETE - Time -> 2026-06-10T01:25:09.848Z - URL -> /api/users/4 
+
+ Method -> GET - Time -> 2026-06-10T01:25:43.539Z - URL -> /api/users/ 
