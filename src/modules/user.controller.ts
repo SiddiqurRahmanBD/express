@@ -1,5 +1,4 @@
 import type { Request, Response } from "express";
-import { pool } from "../db";
 import { userService } from "./user/user.service";
 import sendResponse from "../utility/sendResponse";
 

@@ -29,7 +29,7 @@ const loginUserIntoDB = async (payload: {
     throw new Error("Invalid Credentials!");
   }
 
-  // Genarat Token
+  // Genarate Token
 
   const jwtPayload = {
     id: user.id,
